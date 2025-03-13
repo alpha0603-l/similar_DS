@@ -1,4 +1,3 @@
-from __future__ import annotations
 from langchain_openai import ChatOpenAI
 from langchain.chains import ConversationChain
 

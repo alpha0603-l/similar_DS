@@ -1,4 +1,3 @@
-from __future__ import annotations
 import streamlit as st
 from utils import get_chat_response
 from langchain.memory import ConversationBufferMemory
